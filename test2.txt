@@ -1,0 +1,13 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 9E79-491D
+
+ Directory of C:\Users\patel\Desktop\My project
+
+2025-08-13  11:30 PM    <DIR>          .
+2025-08-13  10:35 PM    <DIR>          ..
+2025-08-13  10:57 PM                 0 dir
+2025-08-13  10:58 PM               446 index.html
+2025-08-13  10:56 PM                12 test1.txt
+2025-08-13  11:30 PM                 0 test2.txt
+               4 File(s)            458 bytes
+               2 Dir(s)  21,438,615,552 bytes free
